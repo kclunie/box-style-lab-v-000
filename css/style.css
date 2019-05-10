@@ -39,7 +39,12 @@ img:hover {
 
 }
 
-
+h4.amiable {
+  background: linear-gradient(
+    to right,
+    #118833,
+    #66ee88
+  );
 
 .indifferent {
   background-color: #dddd22;
