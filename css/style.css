@@ -70,6 +70,14 @@ h4.indifferent {
   );
 }
 
+h4.indifferent:hover {
+  background: linear-gradient(
+    to right,
+    #aa0,
+    #770
+  );
+}
+
 .dubious {
   background-color: #dd4444;
 }
