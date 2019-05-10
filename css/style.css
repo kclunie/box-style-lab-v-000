@@ -92,6 +92,14 @@ h4.dubious {
   );
 }
 
+h4.dubious:hover {
+  background: linear-gradient(
+    to right,
+    #a00,
+    #700
+  );
+}
+
 .column {
   width: 30%;
   display: inline-block;
